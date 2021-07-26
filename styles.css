@@ -1,0 +1,23 @@
+
+* {
+    margin:0px;
+    padding:0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.ul-container{
+    list-style-type: none;
+    background-color: rgb(0, 119, 255);
+    top: 0;
+    width: 100%;
+    padding: 14px 16px;
+}
+
+.ul-container li{
+    display: inline;
+    font-size: larger;
+    color: white;
+}
+
+
+
